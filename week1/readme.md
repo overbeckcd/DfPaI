@@ -10,6 +10,7 @@ Do the exercises in:
 
 ### A
 
+// Integer 2 is printed in the console. go() function hasn’t been called.
 ```processing
 
 int a = 2;
@@ -25,6 +26,8 @@ void setup() {
 ```
 
 ### B
+
+// Integer 0 is printed in the console. go() function hasn’t been called.
 
 ```processing
 int x = 0;
